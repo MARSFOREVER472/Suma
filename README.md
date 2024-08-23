@@ -6,4 +6,4 @@
 
 - **_Cómo sumar los números del 0 al 100 en Javascript!_**
 
-- Ejercicios en Javascript
+- _Ejercicios en Javascript_
