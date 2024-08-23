@@ -7,3 +7,4 @@
 - **_Cómo sumar los números del 0 al 100 en Javascript!_**
 
 - **_Ejercicios en Javascript._**
+Cómo calcular la suma de los 'n' números en Javascript!
