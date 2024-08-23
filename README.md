@@ -2,4 +2,4 @@
 
 ## **_Cómo calcular la suma de los 'n' números utilizando Javascript._**
 
-Suma de 'n' números en Javascript
+Suma de 'n' números en Javascript:
