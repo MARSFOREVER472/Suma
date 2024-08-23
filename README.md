@@ -4,4 +4,4 @@
 
 ### **_Suma de 'n' números en Javascript:_**
 
-- Cómo sumar los números del 0 al 100 en Javascript!
+- _Cómo sumar los números del 0 al 100 en Javascript!_
