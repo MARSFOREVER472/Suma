@@ -6,6 +6,6 @@
 
 - **_Cómo sumar los números del 0 al 100 en Javascript!_**
 
-- **_Ejercicios usando Javascript._**
+- **_Ejercicios utilizando Javascript._**
 
 - **_Cómo calcular la suma total de los 'n' números en Javascript!_**
