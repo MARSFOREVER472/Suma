@@ -4,7 +4,7 @@
 
 ### **_Suma de 'n' números utilizando Javascript:_**
 
-- **_Cómo sumar los números del 0 al 100 usando Javascript!_**
+- **_Cómo sumar los números del 0 al 100 utilizando Javascript!_**
 
 - **_Ejercicios utilizando Javascript._**
 
