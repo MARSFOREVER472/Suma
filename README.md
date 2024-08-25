@@ -8,4 +8,4 @@
 
 - **_Ejercicios utilizando Javascript._**
 
-- **_Cómo calcular la suma total de los 'n' números usando Javascript!_**
+- **_Cómo calcular la suma total de los 'n' números utilizando Javascript!_**
